@@ -9,7 +9,7 @@
 [![GitHub Classroom Autograding](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP5/actions/workflows/classroom.yml/badge.svg)](https://github.com/UNJU-Teoria-de-Sistemas-Operativos/TP5/actions/workflows/classroom.yml)
 
 ## 🎯 Objetivos del Trabajo Práctico
-
+Entrega TP5
 - Identificar las características y funciones de una variable semáforo y de un monitor.
 - Resolver problemas clásicos de exclusión mutua mediante herramientas lógicas (Python `threading`).
 - Comprender el uso de sincronización en condiciones de carrera.
